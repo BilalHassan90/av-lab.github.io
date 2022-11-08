@@ -10,8 +10,7 @@ show_menu: true
 **Dr. Majid Khonji**
 
 <img class="vil" src="/assets/img/majid.png" />
-Majid Khonji is an assistant professor in the EECS department at Khalifa University, UAE, and a research Affiliate with MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), USA. He received his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and PhD in Interdisciplinary Engineering from Masdar Institute, UAE, in collaboration with MIT in 2016. Previously, he was a visiting assistant professor with MIT CSAIL, a senior R&D technologist in Dubai Electricity and Water Authority (DEWA), and an information security researcher in Emirates Advanced Investment Group (EAIG).
-
+Majid Khonji is an assistant professor in the EECS department at Khalifa University, UAE, a Research Affiliate with MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), USA, and leading research activities of the autonomous vehicle laboratory (www.avlab.io) at KUCARS. He received his MSc degree in Security, Cryptology, and Coding of Information Systems from Ensimag, Grenoble Institute of Technology, France, and PhD in Interdisciplinary Engineering from Masdar Institute, UAE, in collaboration with MIT in 2016. Previously, he was a visiting assistant professor with MIT CSAIL, a senior R&D technologist at Dubai Electricity and Water Authority (DEWA), and an information security researcher at Emirates Advanced Investment Group (EAIG).
 Email: majid.khonji(at)ku.ac.ae
 
 **Prof. Jorge Dias**
@@ -39,7 +38,6 @@ Areg Karapetyan received the B.S. degree (with honours) in industrial electronic
 <img src="/assets/img/BH.png"/>
 Bilal Hassan received the Ph.D. degree in Pattern Recognition and Intelligent Systems at Beihang University, China, in 2022. He is currently a Postdoctoral Fellow at Khalifa University, UAE. His research interest lies in computer vision, medical imaging, wireless communication, and related applications.
 
-<br>
 <br>
 
 **Eyad Shaklab**
