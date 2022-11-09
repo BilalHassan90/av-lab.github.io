@@ -105,8 +105,9 @@ Bushra Alshehhi has a BSc in electrical engineering, graduated first in her clas
 **Hamad Al Remeithi**
 >Part-time MSc ECE; jointed Spring 2022
 
-**Fatima Adnan**
->MSc ECE; joined Summr 2022
+**Fatima Kashwani**
+<img src="/assets/img/Fatima.jpg">
+Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with honors at Khalifa University in 2021. She is currently pursuing her Master’s degree in Computer Science at Khalifa University. Her main research areas are artificial intelligence, machine learning, and autonomous vehicles. Her thesis project is focused on teleoperation of unmanned vehicles.
 
 
 <br>
