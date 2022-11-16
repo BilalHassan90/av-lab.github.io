@@ -103,6 +103,12 @@ Bushra Alshehhi has a BSc in electrical engineering, graduated first in her clas
 >MSc CS; joined Spring 2022): funded under  KU-KAIST KKJRC-2019-Trans1
 
 **Hamad Al Remeithi**
+
+<img class="vil" src="/assets/img/hamad_profile.png" />
+
+Hamad AlRemeithi received his B.Sc. in Electrical and Electronics Engineering from Khalifa University in 2020. In Spring 2021 he started pursuing a M.Sc. degree in Electrical and Computer Engineering, as a part-time student. Academically, his research interests lie within mobile robotics, deep learning, neuromorphic computing, computer vision, and dabbles a little in cyber-security. He has also completed an research internship in Khalifa University within the Visual Signal Analysis and Processing Lab (VSAP) in Summer 2019 where he conducted experiments related to Deep Learning and Medical Imaging, in addition to UAVs. Currently, Hamad is working in Tawazun Technology and Innovation (TTI) as a R&D Engineer, where he is involved in System Integration activities and the development of Electro-Optical Systems. Previously, Hamad was very active in robotics competitions; he has competed and trained teams in several iterations of World Skills, Emirate Skills, RoboCup, and RoboCup Junior, from the years 2016 to 2021. 
+
+Email: 100042793(at)ku.ac.ae or hamad.alremeithi(at)tawazunti.ae or h.alremeithi21(at)gmail.com
 >Part-time MSc ECE; jointed Spring 2022
 
 **Fatima Kashwani**
