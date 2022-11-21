@@ -97,6 +97,8 @@ Bushra Alshehhi has a BSc in electrical engineering, graduated first in her clas
 >Msc ECE; joined Spring 2022
 
 **Awet Araia**
+Awet Mekonen received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Multi agent constrained deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
+
 >MSc CS; joined Spring 2022; funded KUCARS Theme 1
 
 **Abiel Ghebreslasie**
