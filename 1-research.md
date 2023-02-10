@@ -8,7 +8,7 @@ show_menu: true
 
 # Publications
 
-## Planners
+## Planning
 - Majid Khonji, Duoaa Khalifa (2023). “A Unified Framework for POMDPs with Constraints and Durative Actions.” The 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, US. 
 - Rashid Alyassi, Majid Khonji, Areg Karapetyan, Sid Chau, Khaled Elbassioni, Chien-Ming Tseng (2022). “Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones.” IEEE Transactions on Automation Science and Engineering (T-ASE).
 - Rashid Alyassi, Majid Khonji (2021). “Dual  Formulation for Chance Constrained Stochastic Shortest Path with Application to Autonomous Vehicle Behavior Planning.” 60th IEEE conference on Decision and Control (CDC), Austin, Texas, US.
@@ -18,6 +18,7 @@ show_menu: true
 
 
 ## Perception
+- Mohamed Nagy, Majid Khonji, Jorge Dias and Sajid Javed1 (2023). "DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion." IEEE International Conference on Robotics and Automation (ICRA), London, UK.
 - Mustofa Basri, Areg Karapetyan, Bilal Hassan, Majid Khonji, Jorge Dias (2022). “A Hybrid Deep Learning Approach for Vehicle Wheel Slip Prediction in Off-Road Environments.” IEEE international symposium on Robotic and Sensors Environments (ROSE). Abu Dhabi, UAE.
 - Javed, Sajid, Arif Mahmood, Ihsan Ullah, Thierry Bouwmans, Majid Khonji, Jorge Manuel Miranda Dias, and Naoufel Werghi (2022). "A Novel Algorithm Based on a Common Subspace Fusion for Visual Object Tracking." IEEE Access.
 - Christopher J Holder, Majid Khonji, Jorge Dias (2020). “Input Optimisation Network for Semantic Segmentation of Underexposed Images.” IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Abu Dhabi, UAE.

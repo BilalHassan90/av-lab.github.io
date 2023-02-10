@@ -7,6 +7,12 @@ show_menu: true
 ---
 
 
+<img class="ads" src="/assets/img/sys-summer-2022.jpg"/>
+<style>
+    .ads:hover{
+        opacity:0.8;
+    }
+</style>
 ## Robotic System Integration | Summer Course 2022
 _Designed and delivered by Eyad Shakab, Arjun Sharma, and Dr. Majid Khonji_ 
 [July 13 - July 22]

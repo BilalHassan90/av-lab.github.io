@@ -7,7 +7,6 @@ layout: home
 <h1 class='av-title'>Autonomous Vehicle Lab </h1>
 <img class='banner'/>
 <iframe class='video' height=166 src="https://youtube.com/embed/k4qmW9vgAio"  frameborder="0"> </iframe>
-<a href="tutorials"><img class="ads" src="/assets/img/sys-summer-2022.jpg"/></a>
 <p class="sum">
 Welcome to the Autonomous Vehicle Lab (AV-Lab) at <a href="https://ku.ac.ae">Khalifa University</a>! Our research focuses on Autonomous Vehicle (AV) technologies, safety and the integration aspects into smart cities.
 <b>Safety assurance</b> is a significant barrier to deploying AVs on a massive scale due to technical challenges that arise from the uncertain environment, such as road and weather conditions, behavioral uncertainty of pedestrians and surrounding vehicles, and modeling inaccuracies. </p>
