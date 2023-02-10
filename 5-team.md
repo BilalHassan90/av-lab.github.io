@@ -62,6 +62,28 @@ In addition, he has experience working in the international laboratory, such as 
 <hr>
 <br>
 
+# Visitors
+
+**Mohammad Riyadh Alkharrat**
+>Visiting Researcher
+
+<img class="vill" src="/assets/img/riyadh.png"/>
+Riyadh received his Bachelor of Computer Engineering degree from the University of Wollongong in Dubai and is dedicated to advancing the fields of autonomous vehicles, robotics and wireless communications. He is currently working on the development of an autonomous shuttle, this project involves the integration of risk aware planning and perception technologies to create a self-driving vehicle. His previous research work lies in the field of LoRa wireless communication resources optimization and improving channel allocation.
+
+
+**Dr. Thanh Nguyen Trung**
+>Visiting Researcher
+
+<img class="vill" src="/assets/img/thanh.png"/>
+Dr. Nguyen Trung Thanh graduated with a bachelor's degree in Mathematics Education from Hai Phong University in 2004. He received a Master's degree in Applied Mathematics from the Institute of Mathematics, Academy of Science and Technology in 2007, and a PhD in Science. studied computer at the University of Duesseldorf, Germany, 2013. From 2014 to 2016, he worked as a postdoctoral fellow at Masdar Institute of Science and Technology, Khalifa University, United Arab Emirates unified (MIST-KU); Massachusetts Institute of Technology, USA (MIT); and New York University (NYU). Dr. Nguyen Trung Thanh is a Lecturer/Researcher at the Faculty of Information Technology, Phenikaa University since February 2020.
+
+
+
+<br>
+<hr>
+<br>
+
+
 # Graduate Students
 **Murad Mebrahtu**
 
@@ -114,12 +136,16 @@ Abiel Fissehatsion received his Bachelor of Science in Computer Engineering from
 Hamad AlRemeithi received his B.Sc. in Electrical and Electronics Engineering from Khalifa University in 2020. In Spring 2021 he started pursuing a M.Sc. degree in Electrical and Computer Engineering, as a part-time student. Academically, his research interests lie within mobile robotics, deep learning, neuromorphic computing, computer vision, and dabbles a little in cyber-security. He has also completed an research internship in Khalifa University within the Visual Signal Analysis and Processing Lab (VSAP) in Summer 2019 where he conducted experiments related to Deep Learning and Medical Imaging, in addition to UAVs. Currently, Hamad is working in Tawazun Technology and Innovation (TTI) as a R&D Engineer, where he is involved in System Integration activities and the development of Electro-Optical Systems. Previously, Hamad was very active in robotics competitions; he has competed and trained teams in several iterations of World Skills, Emirate Skills, RoboCup, and RoboCup Junior, from the years 2016 to 2021. 
 
 Email: 100042793(at)ku.ac.ae or hamad.alremeithi(at)tawazunti.ae or h.alremeithi21(at)gmail.com
+
 >Part-time MSc ECE; jointed Spring 2022
 
 **Fatima Kashwani**
+
 <img src="/assets/img/Fatima.jpg">
 Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with honors at Khalifa University in 2021. She is currently pursuing her Master’s degree in Computer Science at Khalifa University. Her main research areas are artificial intelligence, machine learning, and autonomous vehicles. Her thesis project is focused on teleoperation of unmanned vehicles.
 
+
+>MSc CS; joined Fall 2022
 
 <br>
 <hr>
