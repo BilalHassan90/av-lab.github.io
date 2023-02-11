@@ -86,29 +86,31 @@ Dr. Nguyen Trung Thanh graduated with a bachelor's degree in Mathematics Educati
 
 # Graduate Students
 **Murad Mebrahtu**
+>MSc CS; joined Fall 2021; funded under CIRA-2020-286 
 
 <img class="vil" src="/assets/img/Murad_Official.jpg" /> 
 Murad Smreteab received his Bachelor of Science in Computer Engineering from Khalifa University with the highest honors in January 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on pedestrian behavior prediction and safe navigation around pedestrians. Murad is a member of IEEE Eta Kappa Nu at Khalifa university since 2018 and a member of the Golden Key honor society since 2020. Outside the classroom, he occasionally participates in competitions. In 2018, he won second place in the National Huawei ICT competition in UAE and represented the UAE in the middle east ICT competition. Moreover, he won third place in capture the flag group competition in UAE. As an intern, he worked at Gamalearn as Microsoft PowerApps and flow developer. He also has experience as a teaching assistant at khalifa university working as a primary C++ lab instructor and assistant data structures lab instructor. Outside academia  he is actively involved in sports, representing Khalifa university both in football and volleyball.  In his free time he enjoys playing sports and watching movies.
 
 Email: Murad.Mebrahtu(at)ku.ac.ae
 
->MSc CS; joined Fall 2021; funded under CIRA-2020-286 
     
 
   
 
 **Awet Araia**
-Awet Mekonen received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Multi agent constrained deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
-
 >MSc CS; joined Spring 2022; funded KUCARS Theme 1
 
-**Abiel Ghebreslasie**
-<img src="/assets/img/abi.jpeg" />
+Awet Mekonen received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Multi agent constrained deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
 
+
+**Abiel Ghebreslasie**
+>MSc CS; joined Spring 2022; funded under  KU-KAIST KKJRC-2019-Trans1
+
+<img src="/assets/img/abi.jpeg" />
 Abiel Fissehatsion received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
->MSc CS; joined Spring 2022): funded under  KU-KAIST KKJRC-2019-Trans1
 
 **Hamad Al Remeithi**
+>Part-time MSc ECE; jointed Spring 2022
 
 <img class="vil" src="/assets/img/hamad_profile.png" />
 
@@ -116,15 +118,15 @@ Hamad AlRemeithi received his B.Sc. in Electrical and Electronics Engineering fr
 
 Email: 100042793(at)ku.ac.ae or hamad.alremeithi(at)tawazunti.ae or h.alremeithi21(at)gmail.com
 
->Part-time MSc ECE; jointed Spring 2022
 
 **Fatima Kashwani**
+>MSc CS; joined Fall 2022
 
 <img src="/assets/img/Fatima.jpg">
 Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with honors at Khalifa University in 2021. She is currently pursuing her Master’s degree in Computer Science at Khalifa University. Her main research areas are artificial intelligence, machine learning, and autonomous vehicles. Her thesis project is focused on teleoperation of unmanned vehicles.
 
 
->MSc CS; joined Fall 2022
+
 
 <br>
 <hr>
