@@ -136,20 +136,20 @@ Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with 
 
 ## Staff
 **Dr. Kalyanasundaram (Kalyan) Mathu**
->[Postdoc]  (Aug 2021 - July 2022): funded under KU-KAIST KKJRC-2019-Trans1
+>[Postdoc]  (Aug 2021 - July 2022); funded under KU-KAIST KKJRC-2019-Trans1
 
 **Vishnu Bhadran**
->[RE] (RE: Feb 2021 – June 2022): funded under KU-KAIST KKJRC-2019-Trans1
+>[RE] (RE: Feb 2021 – June 2022); funded under KU-KAIST KKJRC-2019-Trans1
 
 **Rashid Alyassi**
->[RE] (RE: Feb 2021 – June 2022): funded under CIRA-2020-286 Project
+>[RE] (RE: Feb 2021 – June 2022); funded under CIRA-2020-286 Project
 
 
 **Vidya Sudevan**
->[RE]  (Jan 2021 – Aug 2021): funded under KU-KAIST KKJRC-2019-Trans1
+>[RE]  (Jan 2021 – Aug 2021); funded under KU-KAIST KKJRC-2019-Trans1
 
 **Dr. Christopher J Holder**
->[Postdoc]  (Jan 2020 – Dec 2020): funded under KUCARS Theme 1 
+>[Postdoc]  (Jan 2020 – Dec 2020); funded under KUCARS Theme 1 
 
 
 ## Students
