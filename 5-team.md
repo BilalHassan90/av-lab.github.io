@@ -94,29 +94,8 @@ Email: Murad.Mebrahtu(at)ku.ac.ae
 
 >MSc CS; joined Fall 2021; funded under CIRA-2020-286 
     
-**Mustofa Basri**
-<img class="vil" src="/assets/img/Mustofa.png" />
-Mustofa Basri received B.S. degree in Electronics, Information and Communication Engineering from Osaka Sangyo University in 2018 and has work experience in Hitachi High-Tech Fine System Corporation as a Software Engineer in image processing, data collecting for machine learning before joining Khalifa University as a Graduate Master of Science in Electrical and Computer Engineering department. His research project focuses on autonomous navigation in an unstructured environment where he designs a path planner that considers wheel slip. The last book he read was about a guide to utilizing data like a pro, titled “the model thinker” by Scott E. Page, and he recommends it to everyone so that your weeekends will be fully booked. He also enjoys listening to science - economics podcasts on daily basis, and encourage people to send recommendations and collaboration to him at 100059870 at ku.ac.ae or mustofabasri at icloud.com
->MSc ECE; joined Fall 2021; funded under KUCARS Theme 1 
-    
 
-**Mohammed Nagy** 
-
-<img class="vil" src="/assets/img/nagy.png" />
-Mohamed Nagy received a B.S. (2018) in mathematics and computer science from Helwan University, Egypt, and he is recently pursuing an MSc in computer science at Khalifa University, UAE. As part of his career journey, he has been a teaching assistant at Helwan University since 2018 and joined Udacity as a mentor in 2020. His research and teaching concentrate on algorithms, deep learning, and perception for autonomous vehicles. In 2016, he joined the "Mobile Application Launchpad" program by Google, followed by internships and scholarships from leading companies and government entities, namely, Google, Facebook, Udacity, and the Ministry of Communications and Information Technology (MCIT) of Egypt. In 2018, he voluntarily contributed as an Android tutor in One Million Arab Coders, a global initiative, and was cited as one of the best tutors by the Dubai Future Foundation.
-His research interests include object tracking, autonomous systems perception, sensor fusion, and deep learning.
-
-Email: mohamed.nagy(at)ku.ac.ae
-
->MSc CS; joined Fall 2021; funded under KU-KAIST KKJRC-2019-Trans1
-    
-   
-**Bushra Al Shehhi** 
-
-<img src="/assets/img/bushra.jpg" />
-Bushra Alshehhi has a BSc in electrical engineering, graduated first in her class at Khalifa University in 2019. She is currently pursuing an MSc in electrical and computer engineering at Khalifa University. Her research interests are algorithms and machine learning for solving NP-hard combinatorial optimization problems. In Particular, she is studying various methods for optimally planning electric vehicle charging schedules.  Her interests extend to a passion for teaching programming, she worked as a part-time C++ tutor from 2017-2019 and as a teaching assistant from 2019-2020 at Khalifa University. Her personal projects include building simple classic games such as snakes and brick-breaker. In 2018, She successfully completed the android app development program, a part of the One million Arab coders initiative, for which she built a translator app. Bushra also has an interest in the field of efficient and clean energy. In 2018, she was an intern at FEWA power plant control room tasked to study the problem of transformer sizing and placement in the city to achieve optimal economical cost.  Outside research, Bushra enjoys her black coffee while reading and publishing book reviews in various categories, including philosophy, science and engineering, psychology, and Russian literature. She also enjoys gaming, food blogging, and learning languages. 
- 
->Msc ECE; joined Spring 2022
+  
 
 **Awet Araia**
 Awet Mekonen received his Bachelor of Science in Computer Engineering from Khalifa University in May 2021. He is currently pursuing his master’s degree in computer science at Khalifa University. His main areas of research are Artificial intelligence, Machine learning, Deep learning, and Autonomous driving. His master’s thesis is focused on Multi agent constrained deep reinforcement learning for autonomous vehicles safe behavioral planning. He is also actively engaged as a teaching assistant at Khalifa university working as a primary lab instructor. 
@@ -152,12 +131,57 @@ Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with 
 <br>
 
 # Alumni
-* **Dr. Kalyanasundaram (Kalyan) Mathu** [Postdoc]  (Aug 2021 - July 2022): funded under KU-KAIST KKJRC-2019-Trans1
-* **Bushra Al Shehhi** [MSc ECE]  (Summer 2021 - Summer 2022) 
-* **Rashid Alyassi** [RE/MSc CS] (RE: Feb 2021 – June 2022; MSc: Spring 2019 – Fall 2020): funded under CIRA-2020-286 Project / MI-MIT 8474000068 
-* **Vidya Sudevan** [RE]  (Jan 2021 – Aug 2021): funded under KU-KAIST KKJRC-2019-Trans1
-* **Dr. Christopher J Holder** [Postdoc]  (Jan 2020 – Dec 2020): funded under KUCARS Theme 1 
-* **Duoaa Khalifa** [MSc CS]  (Fall 2020): funded under MI-MIT 8474000068 
+
+## Staff
+**Dr. Kalyanasundaram (Kalyan) Mathu**
+>[Postdoc]  (Aug 2021 - July 2022): funded under KU-KAIST KKJRC-2019-Trans1
+
+**Vishnu Bhadran**
+>[RE] (RE: Feb 2021 – June 2022): funded under KU-KAIST KKJRC-2019-Trans1
+
+**Rashid Alyassi**
+>[RE] (RE: Feb 2021 – June 2022): funded under CIRA-2020-286 Project
+
+
+**Vidya Sudevan**
+>[RE]  (Jan 2021 – Aug 2021): funded under KU-KAIST KKJRC-2019-Trans1
+
+**Dr. Christopher J Holder**
+>[Postdoc]  (Jan 2020 – Dec 2020): funded under KUCARS Theme 1 
+
+
+## Students
+**Mustofa Basri**
+>[MSc ECE] (Fall 2021 - Fall 2022); funded under KUCARS Theme 1 
+
+<img class="vil" src="/assets/img/Mustofa.png" />
+Mustofa Basri received B.S. degree in Electronics, Information and Communication Engineering from Osaka Sangyo University in 2018 and has work experience in Hitachi High-Tech Fine System Corporation as a Software Engineer in image processing, data collecting for machine learning before joining Khalifa University as a Graduate Master of Science in Electrical and Computer Engineering department. His research project focuses on autonomous navigation in an unstructured environment where he designs a path planner that considers wheel slip. The last book he read was about a guide to utilizing data like a pro, titled “the model thinker” by Scott E. Page, and he recommends it to everyone so that your weeekends will be fully booked. He also enjoys listening to science - economics podcasts on daily basis, and encourage people to send recommendations and collaboration to him at 100059870 at ku.ac.ae or mustofabasri at icloud.com
+    
+
+**Mohammed Nagy** 
+>[MSc CS] (Fall 2021 - Fall 2022); funded under KU-KAIST KKJRC-2019-Trans1
+
+<img class="vil" src="/assets/img/nagy.png" />
+Mohamed Nagy received a B.S. (2018) in mathematics and computer science from Helwan University, Egypt, and he is recently pursuing an MSc in computer science at Khalifa University, UAE. As part of his career journey, he has been a teaching assistant at Helwan University since 2018 and joined Udacity as a mentor in 2020. His research and teaching concentrate on algorithms, deep learning, and perception for autonomous vehicles. In 2016, he joined the "Mobile Application Launchpad" program by Google, followed by internships and scholarships from leading companies and government entities, namely, Google, Facebook, Udacity, and the Ministry of Communications and Information Technology (MCIT) of Egypt. In 2018, he voluntarily contributed as an Android tutor in One Million Arab Coders, a global initiative, and was cited as one of the best tutors by the Dubai Future Foundation.
+His research interests include object tracking, autonomous systems perception, sensor fusion, and deep learning.
+
+Email: mohamed.nagy(at)ku.ac.ae
+
+
+
+**Bushra Al Shehhi**
+>[MSc ECE]  (Summer 2021 - Summer 2022)
+
+<img src="/assets/img/bushra.jpg" />
+Bushra Alshehhi has a BSc in electrical engineering, graduated first in her class at Khalifa University in 2019. She is currently pursuing an MSc in electrical and computer engineering at Khalifa University. Her research interests are algorithms and machine learning for solving NP-hard combinatorial optimization problems. In Particular, she is studying various methods for optimally planning electric vehicle charging schedules.  Her interests extend to a passion for teaching programming, she worked as a part-time C++ tutor from 2017-2019 and as a teaching assistant from 2019-2020 at Khalifa University. Her personal projects include building simple classic games such as snakes and brick-breaker. In 2018, She successfully completed the android app development program, a part of the One million Arab coders initiative, for which she built a translator app. Bushra also has an interest in the field of efficient and clean energy. In 2018, she was an intern at FEWA power plant control room tasked to study the problem of transformer sizing and placement in the city to achieve optimal economical cost.  Outside research, Bushra enjoys her black coffee while reading and publishing book reviews in various categories, including philosophy, science and engineering, psychology, and Russian literature. She also enjoys gaming, food blogging, and learning languages. 
+ 
+
+**Rashid Alyassi**
+>[MSc CS] (Spring 2019 – Fall 2020); funded under MI-MIT 8474000068 
+
+
+**Duoaa Khalifa**
+>[MSc CS]  (Spring 2019 - Fall 2020): funded under MI-MIT 8474000068 
 
 
 <style>
