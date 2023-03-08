@@ -33,7 +33,6 @@ show_menu: true
 - Multi-Agent Chance-Constrained Stochastic Shortest Path with Application to Risk-Aware Intelligent Intersection.
 - Towards Optimal Last-mile Logistics with Fully-autonomous Contactless Multi-parcel Delivery Robots.
 - Deep Neural Network Assisted Anytime Algorithm for Scalable EV Charging Reservation Scheduling.
-- DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion.
 - Approximability and Efficient Algorithms for Constrained Fixed-Horizon POMDPs with Durative Actions.
 - Online Load Scheduling in Grid-Tied Microgrids Integrated with Electric Vehicle Charging Station: Model Formulation and a Competitive Algorithm.
-- Karapetyan, A., Elbassioni, K., Khonji, M. and Chau, C.K., 2017. Approximations for Generalized Unsplittable Flow on Paths with Application to Power Systems Optimization. _arXiv preprint arXiv:1709.05876_.
+
