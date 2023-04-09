@@ -6,9 +6,13 @@ permalink: /research/
 show_menu: true
 ---
 
-# Publications
 
 ## Planning
+<img src="../1-research/planning-img/banner.gif" >
+
+
+### Publications
+
 - Majid Khonji, Duoaa Khalifa (2023). “A Unified Framework for POMDPs with Constraints and Durative Actions.” The 37th AAAI Conference on Artificial Intelligence (AAAI), Washington, DC, US. 
 - Rashid Alyassi, Majid Khonji, Areg Karapetyan, Sid Chau, Khaled Elbassioni, Chien-Ming Tseng (2022). “Autonomous Recharging and Flight Mission Planning for Battery-operated Autonomous Drones.” IEEE Transactions on Automation Science and Engineering (T-ASE).
 - Rashid Alyassi, Majid Khonji (2021). “Dual  Formulation for Chance Constrained Stochastic Shortest Path with Application to Autonomous Vehicle Behavior Planning.” 60th IEEE conference on Decision and Control (CDC), Austin, Texas, US.
@@ -18,12 +22,19 @@ show_menu: true
 
 
 ## Perception
+<img src="../1-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
+<img src="../1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
+
+### Publications
 - Mohamed Nagy, Majid Khonji, Jorge Dias and Sajid Javed1 (2023). "DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion." IEEE International Conference on Robotics and Automation (ICRA), London, UK.
 - Mustofa Basri, Areg Karapetyan, Bilal Hassan, Majid Khonji, Jorge Dias (2022). “A Hybrid Deep Learning Approach for Vehicle Wheel Slip Prediction in Off-Road Environments.” IEEE international symposium on Robotic and Sensors Environments (ROSE). Abu Dhabi, UAE.
 - Javed, Sajid, Arif Mahmood, Ihsan Ullah, Thierry Bouwmans, Majid Khonji, Jorge Manuel Miranda Dias, and Naoufel Werghi (2022). "A Novel Algorithm Based on a Common Subspace Fusion for Visual Object Tracking." IEEE Access.
 - Christopher J Holder, Majid Khonji, Jorge Dias (2020). “Input Optimisation Network for Semantic Segmentation of Underexposed Images.” IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Abu Dhabi, UAE.
 
 ## System Integration and Smart Cities
+
+### Publications
+- Bushra Alshehhi, Areg Karapetyan, Khaled Elbassioni, Sid Chi-Kin Chau,  Majid Khonji (2023). “DClEVerNet: Deep Combinatorial Learning for Efficient EV Charging Scheduling in Large-scale Networked Facilities.” ACM International Conference on Future Energy Systems (e-Energy), Florida, US
 - Areg Karapetyan, Khaled Elbassioni, Majid Khonji, Sid Chi-Kin Chau (2022).“Approximations for Generalized Unsplittable Flow on Paths with Application to Power Systems Optimization.” Annals of Operations Research.
 - Majid Khonji, Rashid Al Yassi, Jorge Dias, Fahad Al Maskari, Lakmal Seneviratne (2020). “A Risk-Aware Architecture for Autonomous Vehicle  Operation Under Uncertainty.” IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), Abu Dhabi, UAE.
 - Areg Karapetyan, Majid Khonji, Sid Chau, Khaled Elbassioni, Hatem Zeineldin, Tareq El-Fouly, Ahmed Al-Durra (2020). “A Competitive Scheduling Algorithm for Online Demand Response in Islanded Microgrids.” IEEE Transactions on Power Systems (TPS).
