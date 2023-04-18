@@ -50,6 +50,9 @@ layout: home
   margin-top: -11px;
   margin-left: -11px;
 }
+.logo:hover{
+  filter: hue-rotate(180deg);
+}
 .wrapper2 {
   display: flex;
   justify-content: space-between;
