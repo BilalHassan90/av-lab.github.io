@@ -23,9 +23,9 @@ layout: home
   <p> We address the following pivotal questions: </p>
     <ul>
       <li>How can safety be ensured within the core components of the AV decision-making pipeline?</li>
-      <li>How can components effectively exchange and interpret uncertainties while harnessing V2X technology for multi-agent solutions?</li>
-      <li>How can decision-making frameworks effectively combine the benefits of machine learning and the rigor of theoretical computer science to create verifiably safe solutions</li>
-      <li>How can we align AV goals with human values and expectations?
+      <li>How can AV components effectively exchange and interpret uncertainties from the environment while harnessing Vehicle-to-Everything (V2X) technology for multi-agent solutions?</li>
+      <li>How can decision-making frameworks effectively combine the benefits of machine learning and the rigor of theoretical computer science to create verifiably safe solutions?</li>
+      <li>Can we align AV goals with human values and expectations?
       </li>
     </ul>
   </div>
