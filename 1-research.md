@@ -7,7 +7,7 @@ show_menu: true
 ---
 
 
-## Planning
+## AV Planning and Reasoning
 <img src="/1-research/planning-img/banner.gif" >
 
 
@@ -21,7 +21,7 @@ show_menu: true
 - Majid Khonji, Ashkan Jasour, Brian Williams (2019). “Approximability of Constant-horizon Constrained POMDP.” International Joint Conference on Artificial Intelligence (IJCAI), Macao, China. Acceptance rate 17%. [[paper](https://www.ijcai.org/proceedings/2019/0775.pdf)]
 
 
-## Perception
+## Perception and Situation Awareness
 <img src="/1-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
 <img src="/1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
 

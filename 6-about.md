@@ -16,7 +16,7 @@ The AV Lab is transitioning from phase 1 to phase 2, as illustrated below.
 # Phase 1
 The first phase of AV lab involved multiple research projects:
 - Project Title: “Risk-Aware Narrow AI for Autonomous Vehicles”
-    - Duration: Jul 2020 – June 2023                                                                                                                    
+    - Duration: Jul 2020 – Nov 2023                                                                                                                    
     - Budget: AED 2,760,000 (USD 751,423.80)                                                                              
     - Grant ref: CIRA-2020-286
     <img src="/assets/img/anu.jpg" class="logo"/>
@@ -33,7 +33,7 @@ The first phase of AV lab involved multiple research projects:
     - Budget: AED 2,095,847 (USD 570,609)
     - Grant Ref: MM2018-002
     <img src="/assets/img/csail.png"  class="logo"  />
-    - Sponsor: Masdar Institute, Khalifa University, UAE, in collaboration with [Mers group](https://www.csail.mit.edu/research/model-based-embedded-and-robotics-systems-group), CSAIL, MIT
+    - Sponsor: Masdar Institute, Khalifa University, UAE, in collaboration with [MERS group](https://www.csail.mit.edu/research/model-based-embedded-and-robotics-systems-group), CSAIL, MIT
 
 
 
