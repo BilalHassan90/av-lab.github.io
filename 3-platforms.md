@@ -4,8 +4,7 @@ title: Platforms
 permalink: /platforms/
 show_menu: true
 ---
-The AV Lab autonomous vehicle fleet comprises two last-mile passenger vehicles and a Nissan Leaf retrofitted car. The vehicles are equipped with LiDAR sensors and multiple cameras. We are eager to share our platform with researchers in this field. If you are interested in working with us, please get in touch with our research engineer Eyad Shaklab to initiate research collaboration.
-Email: eyad.shaklab at ku.ac.ae Phone: +971 2 312 4809.
+The AV Lab has a fleet of autonomous vehicles, consisting of two passenger vehicles for last-mile transportation and a retrofitted Nissan Leaf. These vehicles are equipped with LiDAR sensors and multiple cameras, allowing for advanced sensing and perception capabilities. We are excited to collaborate with researchers in this field and welcome any inquiries about research partnerships. Please feel free to reach out to us to explore opportunities for collaboration.
 
 # Last Mile Passenger Mobility & Data Collection
 

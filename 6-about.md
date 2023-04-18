@@ -51,9 +51,9 @@ The second phase of KU-AV Lab includes the following interconnected projects:
 
 <img src="/assets/img/eyad-av.jpg" width=300 class="img-right" />
 
-For any inquires, please contact our research engineer Eyad Shaklab:
-Email: eyad.shaklab at ku.ac.ae
-Phone: +971 2 312 4809
+For any inquires, please contact our research engineer Mohammed Riyadh:
+Email: mhdriadh.alkharrat@ku.ac.ae
+
 
 
 # Our Main Campus Lab

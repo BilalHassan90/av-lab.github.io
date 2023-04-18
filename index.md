@@ -1,66 +1,113 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 ---
+
 <h1 class='av-title'>Autonomous Vehicle Lab </h1>
-<img class='banner'/>
-<iframe class='video' height=166 src="https://youtube.com/embed/k4qmW9vgAio"  frameborder="0"> </iframe>
-<p class="sum">
-Welcome to the Autonomous Vehicle Lab (AV-Lab) at <a href="https://ku.ac.ae">Khalifa University</a>! Our research focuses on Autonomous Vehicle (AV) technologies, safety and the integration aspects into smart cities.
-<b>Safety assurance</b> is a significant barrier to deploying AVs on a massive scale due to technical challenges that arise from the uncertain environment, such as road and weather conditions, behavioral uncertainty of pedestrians and surrounding vehicles, and modeling inaccuracies. </p>
-Our research revolves around the following questions:
-- How can we build safety within and around the core components of AV decision-making pipeline?
-- How can each component reasonably report and parse uncertainty from dependent ones in an efficient and explainable manner?
-- How can we build decision-making schemes that take the best out of the machine learning community and the rigor of theoretical computer science to achieve provably safe schemes?
-- What are the ways to exploit enabler technologies such as vehicle-to-everything (V2X) to build multi-agent solutions to realistic problems?
+<div class="wrapper2">
+<!-- <div class="video-background">
+  <video autoplay loop muted playsinline preload="auto">
+    <source src="/assets/bg-anim.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div> -->
+<div class="left-column">
+  <p class="sum">
+    Welcome to the Autonomous Vehicle Lab (AV-Lab) at <a href="https://ku.ac.ae">Khalifa University</a>. Our  research centers around Autonomous Vehicle (AV) technologies, safety assurance, integration into intelligent urban environments, and AI alignment for embodied AI systems.
+  </p>
+  <img class="small-banner"/> 
+  <p>We address the following pivotal questions:</p>
+  <ul>
+    <li>How can safety be ensured within the core components of the AV decision-making pipeline?</li>
+    <li>How can components effectively exchange and interpret uncertainties while harnessing V2X technology for multi-agent solutions?</li>
+    <li>How can decision-making frameworks be developed that amalgamate the advantages of machine learning and the rigor of theoretical computer science to produce demonstrably safe solutions?</li>
+    <li>How can we align AV goals with human values and expectations?
+    </li>
+  </ul>
 
 
-
+  
+</div>
+  <div class="right-column">
+      <img class='banner'/>
+  </div>
+</div>
 
 <style>
+.wrapper2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  position: relative;
+  overflow: hidden;
+}
+
+.video-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.video-background video {
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+}
+
+.left-column,
+.right-column {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100%; /* Add this line */
+}
+
+.left-column {
+  flex: 60%;
+}
+
+.right-column {
+  flex: 40%;
+}
+
+.left-column ul {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
 .av-title{
     margin-bottom:0px;
 }
 .banner{
-    content: url("/assets/img/gen-small.jpg");
-    width:40%; 
+    content: url("/assets/banner-anim.gif");
+    width:100%; 
     margin:0px;
     margin-top:13px;
-    margin-left:10px;
-    clear:right;
-    float:right;
 }
+
 .banner:hover{
     opacity:0.8;
 }
 .video{
     margin:0;
     margin-bottom: 0px;
-    margin-left: 10px;
-    width:40%; 
-    clear:right;
-    float:right;
+    margin-top: 10px;
+    width:100%; 
 }
-.ads{
-    width:40%; 
-    margin:10px;
-    margin-top:20px;
-    margin-left:10px;
-    clear:right;
-    float:right;
-    }
 .ads:hover{
     opacity:0.8;
 }
 .sum{
+    margin-top: 15px;
     color:#838996;
     background-color:#f5f5f5;
-    /*background-color:lightblue; */
-    padding:20px;
-    /*margin:0px; */
-    }
+    padding:16px;
+  
+}
 .sum:hover{
     background-color:#DCDCDC;
     background-color:#f8f8ff;
@@ -69,22 +116,29 @@ a{
     color: black;
 }
 
+
 @media (max-width: 600px) {
-    .banner{
-        float: none;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top:0;
-        content: url("/assets/img/banner-small.png");
-        width: 100%
-    }
-    .video{
-        display:none;
-    }
-    .ads{
-        float: none;
-        width: 90%;
-    }
+  .wrapper2 {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    z-index: 1;
+  }
+
+  .right-column {
+    width: 100%;
+  }
+  .right-column {
+    display: none;
+  }
+
+  .small-banner{
+      content: url("/assets/img/banner-small.png");
+      margin-top:0;
+  }
+
 }
+
+
+
 </style>
