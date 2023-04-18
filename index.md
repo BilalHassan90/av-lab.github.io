@@ -4,7 +4,9 @@
 layout: home
 ---
 
-<h1 class='av-title'>Autonomous Vehicle Lab </h1>
+<h1 class='av-title'>Autonomous Vehicle Lab
+</h1>
+<img class="small-banner"/> 
 <div class="wrapper2">
 <!-- <div class="video-background">
   <video autoplay loop muted playsinline preload="auto">
@@ -14,17 +16,19 @@ layout: home
 </div> -->
 <div class="left-column">
   <p class="sum">
-    Welcome to the Autonomous Vehicle Lab (AV-Lab) at <a href="https://ku.ac.ae">Khalifa University</a>. Our  research centers around Autonomous Vehicle (AV) technologies, safety assurance, integration into intelligent urban environments, and AI alignment for embodied AI systems.
+  <img src="/assets/img/logo.png" width="90px" class="logo"/>
+    Welcome to the Autonomous Vehicle Lab (AV-Lab) at <a href="https://ku.ac.ae" target="_blank" rel="noopener noreferrer">Khalifa University</a>. Our research focuses on the safe operation of AVs, their integration into intelligent urban environments, and the AI alignment for embodied AI systems, specifically in the context of AVs.
   </p>
-  <img class="small-banner"/> 
-  <p>We address the following pivotal questions:</p>
-  <ul>
-    <li>How can safety be ensured within the core components of the AV decision-making pipeline?</li>
-    <li>How can components effectively exchange and interpret uncertainties while harnessing V2X technology for multi-agent solutions?</li>
-    <li>How can decision-making frameworks be developed that amalgamate the advantages of machine learning and the rigor of theoretical computer science to produce demonstrably safe solutions?</li>
-    <li>How can we align AV goals with human values and expectations?
-    </li>
-  </ul>
+  <div class="questions">
+  <p> We address the following pivotal questions: </p>
+    <ul>
+      <li>How can safety be ensured within the core components of the AV decision-making pipeline?</li>
+      <li>How can components effectively exchange and interpret uncertainties while harnessing V2X technology for multi-agent solutions?</li>
+      <li>How can decision-making frameworks effectively combine the benefits of machine learning and the rigor of theoretical computer science to create verifiably safe solutions</li>
+      <li>How can we align AV goals with human values and expectations?
+      </li>
+    </ul>
+  </div>
 
 
   
@@ -35,6 +39,17 @@ layout: home
 </div>
 
 <style>
+.av-title{
+     margin-bottom:-20px;
+    margin-top: -15px;
+    font-size: 40.5px;   
+}
+.logo{
+  float: left;
+  padding-right:5px;
+  margin-top: -11px;
+  margin-left: -11px;
+}
 .wrapper2 {
   display: flex;
   justify-content: space-between;
@@ -64,6 +79,8 @@ layout: home
   flex-direction: column;
   position: relative;
   height: 100%; /* Add this line */
+  hyphens: auto;
+  text-align: justify;
 }
 
 .left-column {
@@ -72,16 +89,44 @@ layout: home
 
 .right-column {
   flex: 40%;
+  /* margin-top:-65px; */
 }
 
 .left-column ul {
-  margin-left: 20px;
-  list-style-type: disc;
+  list-style-type: "‣ ";
+  margin-top: -10px;
+  margin-bottom: -10px;
+}
+.left-column li {
+  padding-bottom: 10px;
+}
+.sum{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    color:#838996;
+    background-color:#f5f5f5;
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 25px;
 }
 
-.av-title{
-    margin-bottom:0px;
+.sum:hover{
+    background-color:#f8f8ff;
 }
+.questions{
+  background-color: #f9fbff ;
+  color:#566968 ;
+  padding: 12px;
+  
+  padding-right: 25px;
+}
+.questions:hover{
+  opacity: 80%;
+    background-color: #566968 ;
+    color:#f9fbff;
+}
+
+
 .banner{
     content: url("/assets/banner-anim.gif");
     width:100%; 
@@ -101,21 +146,16 @@ layout: home
 .ads:hover{
     opacity:0.8;
 }
-.sum{
-    margin-top: 15px;
-    color:#838996;
-    background-color:#f5f5f5;
-    padding:16px;
-  
-}
-.sum:hover{
-    background-color:#DCDCDC;
-    background-color:#f8f8ff;
-}
+
+
 a{
     color: black;
 }
-
+.small-banner{
+  display: none;
+  margin: 0;
+  padding: 0;
+}
 
 @media (max-width: 600px) {
   .wrapper2 {
@@ -134,7 +174,8 @@ a{
 
   .small-banner{
       content: url("/assets/img/banner-small.png");
-      margin-top:0;
+      margin-top: 15px;
+      display: inline-block;
   }
 
 }
