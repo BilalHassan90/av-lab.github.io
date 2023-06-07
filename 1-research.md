@@ -8,6 +8,8 @@ show_menu: true
 
 
 ## AV Planning and Reasoning
+The research focuses on enhancing autonomous vehicle systems, with an emphasis on safety, efficient operation and preference alignment.
+
 <img src="/1-research/planning-img/banner.gif" >
 
 
@@ -21,16 +23,22 @@ show_menu: true
 
 
 ## AV Perception and Situation Awareness
+This research direction is centered on enhancing perception and situation awareness within the realm of autonomous vehicles. Future efforts will prioritize the establishment of robust perception mechanisms that can competently interpret environmental uncertainties. Current projects span from detecting and tracking multiple objects, predicting vehicle wheel slip in off-road conditions, to semantic segmentation of underexposed images.
+
+
 <img src="/1-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
 <img src="/1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
 
 ### Publications
 - [Mohamed Nagy, Majid Khonji, Jorge Dias and Sajid Javed (2023). "**DFR-FastMOT: Detection Failure Resistant Tracker for Fast Multi-Object Tracking Based on Sensor Fusion**." IEEE International Conference on Robotics and Automation (**ICRA**), London, UK.](/research/MOT) [[paper](https://arxiv.org/pdf/2302.14807.pdf)]
+- Hamad AlRemeithi, Fakhreddine Zayer, Jorge Dias, Majid Khonji (2023). “Event Vision for Autonomous Off-Road Navigation.” Artificial Intelligence for Robotics and Autonomous Systems Applications. Studies in Computational Intelligence, vol 1093. Springer, Cham. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-28715-2_8)]
 - [Mustofa Basri, Areg Karapetyan, Bilal Hassan, Majid Khonji, Jorge Dias (2022). “**A Hybrid Deep Learning Approach for Vehicle Wheel Slip Prediction in Off-Road Environments**.” IEEE international symposium on Robotic and Sensors Environments (**ROSE**). Abu Dhabi, UAE.](/research/offroad/) [[paper](https://ieeexplore.ieee.org/document/9977432)]
 - Javed, Sajid, Arif Mahmood, Ihsan Ullah, Thierry Bouwmans, Majid Khonji, Jorge Manuel Miranda Dias, and Naoufel Werghi (2022). "**A Novel Algorithm Based on a Common Subspace Fusion for Visual Object Tracking**." **IEEE Access**. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723062)]
 - Christopher J Holder, Majid Khonji, Jorge Dias (2020). “**Input Optimisation Network for Semantic Segmentation of Underexposed Images**.” IEEE International Symposium on Safety, Security, and Rescue Robotics (**SSRR**), Abu Dhabi, UAE. [[paper](https://ieeexplore.ieee.org/document/9292626)]
 
 ## AV System Integration and Smart Cities
+This research focuses on the integration of autonomous vehicle systems into smart cities. It entails the development of strategies for mission planning, efficient EV charging, and the creation of risk-aware frameworks for autonomous operations under uncertainty. All these efforts aim at enhancing the efficiency and sustainability of autonomous technologies within urban environments.
+
 <img src="/1-research/integration-img/delivery-robot.gif" height="200">
 ### Publications
 - Bushra Alshehhi, Areg Karapetyan, Khaled Elbassioni, Sid Chi-Kin Chau,  Majid Khonji (2023). “**DClEVerNet: Deep Combinatorial Learning for Efficient EV Charging Scheduling in Large-scale Networked Facilities**.” ACM International Conference on Future Energy Systems (**e-Energy**), Florida, US
