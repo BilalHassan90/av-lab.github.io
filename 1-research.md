@@ -8,7 +8,7 @@ show_menu: true
 
 
 ## AV Planning and Reasoning
-The research focuses on enhancing autonomous vehicle systems, with an emphasis on safety, efficient operation and preference alignment.
+This line of research primarily targets the optimization of planning systems in autonomous vehicles. The focus is on elevating safety measures, streamlining operational efficiency, and aligning system functions with user preferences.
 
 <img src="/1-research/planning-img/banner.gif" >
 
@@ -23,8 +23,7 @@ The research focuses on enhancing autonomous vehicle systems, with an emphasis o
 
 
 ## AV Perception and Situation Awareness
-This research direction is centered on enhancing perception and situation awareness within the realm of autonomous vehicles. Future efforts will prioritize the establishment of robust perception mechanisms that can competently interpret environmental uncertainties. Current projects span from detecting and tracking multiple objects, predicting vehicle wheel slip in off-road conditions, to semantic segmentation of underexposed images.
-
+This line of research is dedicated to refining perception and situational awareness capabilities within the field of autonomous vehicles. Upcoming efforts will place emphasis on formulating robust perception systems able to capture and report model uncertainties. Current projects span from detecting and tracking multiple objects, predicting vehicle wheel slip in off-road conditions, to semantic segmentation of underexposed images.
 
 <img src="/1-research/3d-multi-object-tracking-img/tracking-gif.gif" height="200">
 <img src="/1-research/Offroad_AGV-Slip-Prediction-img/GIF_MUSTOFA_OP.gif" height="200">
@@ -37,7 +36,7 @@ This research direction is centered on enhancing perception and situation awaren
 - Christopher J Holder, Majid Khonji, Jorge Dias (2020). “**Input Optimisation Network for Semantic Segmentation of Underexposed Images**.” IEEE International Symposium on Safety, Security, and Rescue Robotics (**SSRR**), Abu Dhabi, UAE. [[paper](https://ieeexplore.ieee.org/document/9292626)]
 
 ## AV System Integration and Smart Cities
-This research focuses on the integration of autonomous vehicle systems into smart cities. It entails the development of strategies for mission planning, efficient EV charging, and the creation of risk-aware frameworks for autonomous operations under uncertainty. All these efforts aim at enhancing the efficiency and sustainability of autonomous technologies within urban environments.
+This line of research focuses on the integration of autonomous vehicle systems into smart cities. It entails the development of strategies for mission planning, efficient EV charging, and the creation of risk-aware frameworks for autonomous operations under uncertainty. The aim is to enhance the efficiency and sustainability of autonomous technologies within urban environments.
 
 <img src="/1-research/integration-img/delivery-robot.gif" height="200">
 ### Publications
