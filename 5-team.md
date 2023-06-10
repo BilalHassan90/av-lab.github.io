@@ -126,7 +126,7 @@ Fatima Kashwani received her Bachelor’s degree in Biomedical Engineering with 
 
 <br>
 
-**Many thanks to [AV Lab Alumni](/team/alumni/)** for their great contributions.
+**Many thanks to [AV Lab Alumni](/team/alumni)** for their great contributions.
 
 <style>
 img{
